@@ -2,15 +2,21 @@
 I’m currently transitioning into cybersecurity after working in the healthcare industry for over 9 years. Technology has always been a strong interest of mine. Nearly 20 years ago, I began learning by repairing computers, building systems, and exploring web development. Over time, that interest grew into a passion for understanding how systems work and how they can be made secure.
 Now, I’m focused on learning cybersecurity in a hands-on way. I’m building a home lab, working on projects, and developing real skills through practical experience. My long-term goal is to work in the field of digital forensics and incident response.
 
+<br>
+
 ## Objective
 My goal is to build a solid foundation in cybersecurity by studying key concepts, practicing in lab environments, and completing real-world projects. I’m especially interested in digital forensics, including how to analyze systems after a security incident, recover data, and understand how attacks happen. I'm committed to learning and growing in this field, and this portfolio is where I will document that journey.
+
+<br>
 
 ## Skills
 | Skill Area                         | Description                                                       | Related Project                               |
 |-----------------------------------|-------------------------------------------------------------------|------------------------------------------------|
-| Lab Design & Virtualization       | Building isolated VM environments with controlled networking      | Home Lab Setup |
-| Network Segmentation & Firewalling| Configuring internal-only networks and managing traffic with pfSense | Home Lab Setup |
-| Security Monitoring & SIEM        | Collecting and analyzing logs across systems using a central SIEM | Home Lab Setup |
+| Lab Design & Virtualization       | Building isolated VM environments with controlled networking      | <a href="https://github.com/DFIRapprentice/Home-Lab-Setup/tree/main">Home Lab Setup</a> |
+| Network Segmentation & Firewalling| Configuring internal-only networks and managing traffic with pfSense | <a href="https://github.com/DFIRapprentice/Home-Lab-Setup/tree/main">Home Lab Setup</a> |
+| Security Monitoring & SIEM        | Collecting and analyzing logs across systems using a central SIEM | <a href="https://github.com/DFIRapprentice/Home-Lab-Setup/tree/main">Home Lab Setup</a> |
+
+<br>
 
 ## Tools & Technologies
 These are tools and technologies I’ve worked with so far as part of my hands-on labs and projects. This section will grow as I gain more experience.
@@ -28,4 +34,7 @@ These are tools and technologies I’ve worked with so far as part of my hands-o
 ### Security Monitoring & SIEM  
 <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
----
+<br>
+
+## Projects
+- <a href="https://github.com/DFIRapprentice/Home-Lab-Setup/tree/main">Home Lab Setup</a>
