@@ -18,32 +18,14 @@ These are tools and technologies I’ve worked with so far as part of my hands-o
 ### Virtualization & Networking  
 <img src="https://img.shields.io/badge/-VirtualBox-2279A7?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/-pfSense-C63638?&style=for-the-badge&logo=pfSense&logoColor=white" />
 
-- Creating isolated internal networks for lab use
-- Configuring pfSense for DHCP, DNS, firewall rules, and NAT
-
 <br>
 
 ### Operating Systems  
 <img src="https://img.shields.io/badge/-Windows%2010%2F11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali%20Linux-5C7A87?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 
-- Windows for endpoint simulation and lab testing
-- Ubuntu for hosting security infrastructure (e.g., Wazuh)
-- Kali Linux for testing and scanning
-
 <br>
 
 ### Security Monitoring & SIEM  
 <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-
-- Installed and configured Wazuh manager
-- Installed Wazuh agent on endpoints for centralized log collection
-
-<br>
-
-### Scripting & Automation  
-<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-
-- Writing simple Bash scripts for system setup and maintenance
-- Using Python for early-stage automation and log parsing experiments
 
 ---
